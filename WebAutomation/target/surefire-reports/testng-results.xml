@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-19T14:52:08Z" name="Suite" finished-at="2022-10-19T14:52:14Z" duration-ms="5908">
+    <groups>
+    </groups>
+    <test started-at="2022-10-19T14:52:08Z" name="Test" finished-at="2022-10-19T14:52:14Z" duration-ms="5908">
+      <class name="com.capgemini.tests.TalentCapgemeniTest">
+        <test-method is-config="true" signature="invokeDriver()[pri:0, instance:com.capgemini.tests.TalentCapgemeniTest@ae3540e]" started-at="2022-10-19T14:52:06Z" name="invokeDriver" finished-at="2022-10-19T14:52:08Z" duration-ms="1831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeDriver -->
+        <test-method signature="navigateToTalentPage()[pri:1, instance:com.capgemini.tests.TalentCapgemeniTest@ae3540e]" started-at="2022-10-19T14:52:08Z" name="navigateToTalentPage" finished-at="2022-10-19T14:52:12Z" duration-ms="4521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToTalentPage -->
+        <test-method signature="enterLoginDetails()[pri:2, instance:com.capgemini.tests.TalentCapgemeniTest@ae3540e]" started-at="2022-10-19T14:52:12Z" name="enterLoginDetails" finished-at="2022-10-19T14:52:14Z" duration-ms="1370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterLoginDetails -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.capgemini.tests.TalentCapgemeniTest@ae3540e]" started-at="2022-10-19T14:52:14Z" name="close" finished-at="2022-10-19T14:52:14Z" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.capgemini.tests.TalentCapgemeniTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
